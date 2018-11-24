@@ -1,12 +1,12 @@
 {
   "name": "create-electron-app",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Create Electron App",
   "main": "index.js",
   "author": "Samuel Attard",
   "license": "MIT",
   "dependencies": {
-    "electron-forge": "^3.0.1"
+    "@electron-forge/cli": "latest"
   },
   "bin": {
     "create-electron-app": "./index"

@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('electron-forge/dist/electron-forge-init.js');
+require('@electron-forge/cli/dist/electron-forge-init.js');
