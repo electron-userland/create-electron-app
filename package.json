@@ -1,6 +1,6 @@
 {
   "name": "create-electron-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create Electron App",
   "main": "index.js",
   "author": "Samuel Attard",
