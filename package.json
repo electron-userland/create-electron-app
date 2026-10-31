@@ -8,7 +8,6 @@
   "dependencies": {
     "@electron-forge/cli": "latest"
   },
-  "bin": {
-    "create-electron-app": "./index"
-  }
+  "bin": "./index",
+  "packageManager": "yarn@4.10.3"
 }
